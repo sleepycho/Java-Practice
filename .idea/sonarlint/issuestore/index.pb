@@ -36,3 +36,11 @@ L
 src/day02/JavaPractice1.java,6/c/6c466d3444671bea380dab00994d16fd4389a319
 L
 src/day02/JavaPractice2.java,7/6/76e059d7e95f8c7d507b4360cab387cf9dd0a55f
+K
+src/day03/OperationEx1.java,7/9/79f90dcb3e19a44cb1efb26a157e3bc9e17b8975
+K
+src/day03/OperationEx2.java,3/0/303f52617920294092d5d794bab856225d9f12cc
+K
+src/day03/OperationEx3.java,7/3/731167c3849ef75268ed5907098397dfa8334467
+K
+src/day03/OperationEx4.java,0/e/0e9af2e6dcf6337d2461a2ff34ba43bb5c66eb24
