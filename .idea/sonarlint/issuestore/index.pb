@@ -44,3 +44,9 @@ K
 src/day03/OperationEx3.java,7/3/731167c3849ef75268ed5907098397dfa8334467
 K
 src/day03/OperationEx4.java,0/e/0e9af2e6dcf6337d2461a2ff34ba43bb5c66eb24
+K
+src/day04/OperationEx3.java,d/c/dc90cfeda78345ebb6e7d35967be0263a662438e
+K
+src/day04/OperationEx5.java,a/3/a3b85397e1c3050995557af337055961d2e447f4
+K
+src/day04/OperationEx6.java,d/4/d4eb15fc4717b78e064656820a4dd5341ebca4fa
