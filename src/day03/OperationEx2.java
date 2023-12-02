@@ -15,7 +15,7 @@ public class OperationEx2 {
         int totalScore = korScore + engScore + mathScore;
         System.out.println(totalScore);
 
-        float avgScore = totalScore / 2.0F;
+        float avgScore = totalScore / 3.0F;
         System.out.println(avgScore);
     }
 }
