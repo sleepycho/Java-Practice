@@ -45,8 +45,10 @@ K
 K
 src/day03/OperationEx4.java,0/e/0e9af2e6dcf6337d2461a2ff34ba43bb5c66eb24
 K
-src/day04/OperationEx3.java,d/c/dc90cfeda78345ebb6e7d35967be0263a662438e
-K
 src/day04/OperationEx5.java,a/3/a3b85397e1c3050995557af337055961d2e447f4
 K
 src/day04/OperationEx6.java,d/4/d4eb15fc4717b78e064656820a4dd5341ebca4fa
+K
+src/day05/OperationEx7.java,e/b/eb79dd18d4811d86c0772606d34a7e4bfb60a4b2
+K
+src/day04/OperationEx7.java,a/b/ab811bb1018acfddaaa0fd4d7849ac2c8f328134
