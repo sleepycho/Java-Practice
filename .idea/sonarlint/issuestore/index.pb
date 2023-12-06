@@ -49,6 +49,12 @@ K
 K
 src/day04/OperationEx6.java,d/4/d4eb15fc4717b78e064656820a4dd5341ebca4fa
 K
-src/day05/OperationEx7.java,e/b/eb79dd18d4811d86c0772606d34a7e4bfb60a4b2
-K
 src/day04/OperationEx7.java,a/b/ab811bb1018acfddaaa0fd4d7849ac2c8f328134
+I
+src/day05/IfExample1.java,3/1/31161677321e56e245f609430e98578b7bb8b1e3
+I
+src/day05/IfExample2.java,3/0/30d307cfe0ab0602754b1ba0f9673ceb119042dd
+I
+src/day05/IfExample3.java,f/f/ffe99e8edd83291ade410e3bbd494fc5024504af
+I
+src/day05/SwitchCase.java,d/5/d5339fb2ea08a6f473de4036af8652f032056ba8
